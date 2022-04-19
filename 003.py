@@ -1,0 +1,5 @@
+nn1,nn2 = int(input()),int(input())
+print("Difference:%.2f" %(abs(nn1-nn2)))
+print("Sum:%.2f" %(nn1+nn2))
+print("Quotient:%.2f" %(nn1/nn2))
+print("Product:%.2f" %(nn1*nn2))
